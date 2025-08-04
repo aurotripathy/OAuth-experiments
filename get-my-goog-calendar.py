@@ -1,6 +1,7 @@
 # https://developers.google.com/workspace/calendar/api/quickstart/python
 # needs a credentials.json file
 # generates a token.json file for subsequent operations
+# google seperates developer and tester, I had to add a tester email id to make this work
 
 import datetime
 import os.path
